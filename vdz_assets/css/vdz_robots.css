@@ -1,0 +1,19 @@
+/*
+ *
+ *  * @ author ( Zikiy Vadim )
+ *  * @ site http://online-services.org.ua
+ *  * @ name
+ *  * @ copyright Copyright (C) 2016 All rights reserved.
+ *
+ */
+
+#wpwrap{
+    background-color: #fff;
+}
+#wpbody-content{
+    margin-top: 20px;
+}
+
+.bg-danger{
+    padding: 15px 20px;
+}
